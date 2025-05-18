@@ -1,1 +1,1 @@
-# Flipkart_testing
+I independently developed an end-to-end automation testing framework for the Flipkart e-commerce platform as part of a hands-on testing initiative to simulate real-world product testing environments. The primary goal was to validate core functionalities of the website, improve test coverage, and streamline the regression testing process using Selenium WebDriver and Java.
